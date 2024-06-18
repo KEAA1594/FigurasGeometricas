@@ -86,7 +86,7 @@
     <Component class="javax.swing.JButton" name="btnTriangulo">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\Kevin\Downloads\descargar.png"/>
+          <Image iconType="2" name="C:\Users\Kevin\OneDrive\Documents\NetBeansProjects\FigurasGeometricas\assets\triangulo.png"/>
         </Property>
         <Property name="toolTipText" type="java.lang.String" value=""/>
       </Properties>
@@ -112,7 +112,7 @@
     <Component class="javax.swing.JButton" name="btnCirculo">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\Kevin\Downloads\descargar (1).png"/>
+          <Image iconType="2" name="C:\Users\Kevin\OneDrive\Documents\NetBeansProjects\FigurasGeometricas\assets\circulo.png"/>
         </Property>
       </Properties>
       <Events>
@@ -122,7 +122,7 @@
     <Component class="javax.swing.JButton" name="btnRectangulo">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\Kevin\Downloads\descargar (2).png"/>
+          <Image iconType="2" name="C:\Users\Kevin\OneDrive\Documents\NetBeansProjects\FigurasGeometricas\assets\rectangulo.png"/>
         </Property>
       </Properties>
       <Events>

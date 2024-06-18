@@ -23,7 +23,7 @@ public class figuras extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        btnTriangulo.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kevin\\Downloads\\descargar.png")); // NOI18N
+        btnTriangulo.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kevin\\OneDrive\\Documents\\NetBeansProjects\\FigurasGeometricas\\assets\\triangulo.png")); // NOI18N
         btnTriangulo.setToolTipText("");
         btnTriangulo.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -42,14 +42,14 @@ public class figuras extends javax.swing.JFrame {
             .addGap(0, 100, Short.MAX_VALUE)
         );
 
-        btnCirculo.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kevin\\Downloads\\descargar (1).png")); // NOI18N
+        btnCirculo.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kevin\\OneDrive\\Documents\\NetBeansProjects\\FigurasGeometricas\\assets\\circulo.png")); // NOI18N
         btnCirculo.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnCirculoActionPerformed(evt);
             }
         });
 
-        btnRectangulo.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kevin\\Downloads\\descargar (2).png")); // NOI18N
+        btnRectangulo.setIcon(new javax.swing.ImageIcon("C:\\Users\\Kevin\\OneDrive\\Documents\\NetBeansProjects\\FigurasGeometricas\\assets\\rectangulo.png")); // NOI18N
         btnRectangulo.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnRectanguloActionPerformed(evt);
